@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/batraenterprises/static/css/main.5b72c954.css",
-    "main.js": "/batraenterprises/static/js/main.1ee87dbd.js",
-    "static/js/488.b86a4d78.chunk.js": "/batraenterprises/static/js/488.b86a4d78.chunk.js",
-    "index.html": "/batraenterprises/index.html",
-    "main.5b72c954.css.map": "/batraenterprises/static/css/main.5b72c954.css.map",
-    "main.1ee87dbd.js.map": "/batraenterprises/static/js/main.1ee87dbd.js.map",
-    "488.b86a4d78.chunk.js.map": "/batraenterprises/static/js/488.b86a4d78.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.ff8e25eb.css",
+    "main.js": "/portfolio/static/js/main.edee1d6b.js",
+    "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
+    "index.html": "/portfolio/index.html",
+    "main.ff8e25eb.css.map": "/portfolio/static/css/main.ff8e25eb.css.map",
+    "main.edee1d6b.js.map": "/portfolio/static/js/main.edee1d6b.js.map",
+    "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b72c954.css",
-    "static/js/main.1ee87dbd.js"
+    "static/css/main.ff8e25eb.css",
+    "static/js/main.edee1d6b.js"
   ]
 }
